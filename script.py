@@ -21,4 +21,8 @@ For more click help....</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Group :</b> 👉 <a href='https://t.me/ShizuSupport_Official'>Click Here</a>"""
+⭕️<b>Group :</b> 👉 <a href='https://t.me/ShizuSupport_Official'>Click Here</a>
+
+⭕️<b>Owner :</b> 👉 <a href='https://t.me/Mr_Rasiyaa'>Mr_Rasiyaa</a>
+
+⭕️<b>Project by @ShizuSupport_Official</b>"""
